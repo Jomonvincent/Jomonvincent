@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jomonvincent
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Jomon.Vincent(insta)
-- ⚡ Fun fact: where there is a will, there is a way.
+- ⚡ Fun fact: The bigest problem is not knowing what the problem is
 
 <!---
 Jomonvincent/Jomonvincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
