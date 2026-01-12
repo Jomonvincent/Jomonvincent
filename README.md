@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jomonvincent
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning java
+- 🌱 
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me Jomon.Vincent(insta)
 - ⚡ Fun fact: The bigest problem is not knowing what the problem is
